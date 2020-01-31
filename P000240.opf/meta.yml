@@ -1,0 +1,40 @@
+ebook_metadata:
+  title: ༄༅༅། །རྗེ་བླ་མའི་བཀའ་འབུམ་དཀར་ཆག་གདུང་རྟེན་རྣམ་གཉིས་ཀྱི་དཀར་ཆག་བསྔོ་སྨོན་དང་བཀྲ་ཤིས་ཀྱི་སྐོར་སྔ་འགྱུར་བསྟན་པ་རྒྱས་པའི་སྨོན་འགྲེལ་ཞལ་སབ་སྣ་ཚོགས་དཔལ་ལྡན་བླ་མ་རྡོ་རྗེ་འཆང་འགྱུར་མེད་པདྨ་རྣམ་རྒྱལ་གྱི་རྟོགས་བརྗོད་བཅས།
+    །
+  authors:
+  - མཛད་པ་པོ། ཞེ་ཆེན་རྒྱལ་ཚབ་འགྱུར་མེད་པདྨ་རྣམ་རྒྱལ།
+  sku: SHE-SG-13
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - quotation
+  - sabche
+  - yigchung
+web_metadata:
+  title:
+    en: Various Texts:The Catalog of the Collection, Prayers, Commentaries to Various
+      Prayers, etc.
+    bo: དཀར་ཆག་སྨོན་འགྲེལ་ཞལ་སབ་སྣ་ཚོགས་ཀྱི་སྐོར།༼ཨ༽
+  collection:
+    en: Shechen Gyaltsab Series–  Book 13
+    bo: ཞེ་ཆེན་རྒྱལ་ཚབ་གསུང་འབུམ།–  དེབ། ༡༣
+  author:
+    en: Shechen Gyaltsap Gyurme Pema Namgyal
+    bo: ཞེ་ཆེན་རྒྱལ་ཚབ་འགྱུར་མེད་པདྨ་རྣམ་རྒྱལ།
+  pusblisher:
+    en: Shechen Publications
+    bo: ཞེ་ཆེན་བསྟན་གཉིས་དར་རྒྱས་གླིང།
+  sku: SHE-SG-13
+  category:
+    en: Uncategorized
+    bo: Uncategorized @tib
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: SHE-SG-13.epub
+  description:
+    en: ''
+    bo: ''
