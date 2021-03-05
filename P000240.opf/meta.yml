@@ -1,9 +1,10 @@
-ebook_metadata:
+id: P000240
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅༅། །རྗེ་བླ་མའི་བཀའ་འབུམ་དཀར་ཆག་གདུང་རྟེན་རྣམ་གཉིས་ཀྱི་དཀར་ཆག་བསྔོ་སྨོན་དང་བཀྲ་ཤིས་ཀྱི་སྐོར་སྔ་འགྱུར་བསྟན་པ་རྒྱས་པའི་སྨོན་འགྲེལ་ཞལ་སབ་སྣ་ཚོགས་དཔལ་ལྡན་བླ་མ་རྡོ་རྗེ་འཆང་འགྱུར་མེད་པདྨ་རྣམ་རྒྱལ་གྱི་རྟོགས་བརྗོད་བཅས།
     །
   authors:
   - མཛད་པ་པོ། ཞེ་ཆེན་རྒྱལ་ཚབ་འགྱུར་མེད་པདྨ་རྣམ་རྒྱལ།
-  sku: SHE-SG-13
   layers:
   - book_title
   - author
@@ -11,6 +12,7 @@ ebook_metadata:
   - quotation
   - sabche
   - yigchung
+  id: SHE-SG-13
 web_metadata:
   title:
     en: Various Texts:The Catalog of the Collection, Prayers, Commentaries to Various
